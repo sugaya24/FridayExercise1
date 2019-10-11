@@ -1,0 +1,52 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - FizzBuzz",
+      "request": "launch",
+      "mainClass": "Week1.ForLoops.FizzBuzz"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - CountintMachine",
+      "request": "launch",
+      "mainClass": "Week1.ForLoops.CountintMachine"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - AddingValuesInLoop",
+      "request": "launch",
+      "mainClass": "Week1.WhileLoops.AddingValuesInLoop"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - CountingMachine",
+      "request": "launch",
+      "mainClass": "Week1.ForLoops.CountingMachine"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HowOldAreYouSpecifically",
+      "request": "launch",
+      "mainClass": "Week1.IfStatements.HowOldAreYouSpecifically"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - AgeInFiveYears",
+      "request": "launch",
+      "mainClass": "Week1.KeyboardInput.AgeInFiveYears"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - NameAgeSalary",
+      "request": "launch",
+      "mainClass": "Week1.KeyboardInput.NameAgeSalary"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StillUsingVariables",
+      "request": "launch",
+      "mainClass": "Week1.Variables.StillUsingVariables"
+    }
+  ]
+}
