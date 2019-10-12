@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63be23c7-a538-4673-abaf-fbb2ac6d9125" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week1/Classes/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week1/Classes/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/KeyboardInput/AgeInFiveYears.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/KeyboardInput/AgeInFiveYears.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/KeyboardInput/NameAgeSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/KeyboardInput/NameAgeSalary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/Variables/StillUsingVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/Variables/StillUsingVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
